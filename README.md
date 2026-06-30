@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=700&size=36&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Edward+Ajayi+%F0%9F%91%8B;NLP+Researcher+%40+CMU;Computational+Humor+%7C+LLM+Eval;Building+Socially+Aware+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=700&size=36&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Edward+Ajayi+%F0%9F%91%8B" alt="Hi, I'm Edward Ajayi" />
 
 <br/>
 
@@ -22,13 +22,13 @@
 
 ## 👤 About Me
 
-I am a **Research Associate** at the [Spatial and Language Technologies Lab](https://www.cs.cmu.edu/), Carnegie Mellon University, and a **Master's graduate (MSc, Engineering AI, CMU '26)** supported by the **Mastercard Foundation Scholarship**.
+I am a **Research Associate** at the [Spatial and Language Technologies Lab](https://www.cs.cmu.edu/), Carnegie Mellon University. I hold a **Master of Science in Engineering Artificial Intelligence from Carnegie Mellon University (CMU '26)**, completed as a **[Mastercard Foundation Scholar](https://mastercardfdn.org/)** — a fully funded, merit-based scholarship awarded to future African leaders in science and technology.
 
 My research investigates how structured representations and reasoning processes can be incorporated into neural language models for **computational humor generation**, **LLM evaluation**, and **multimodal ML**. My work focuses on how models capture and manipulate meaning — particularly in settings that require compositionality, contextual interpretation, and nuanced semantic shifts.
 
 More broadly, I am interested in developing **cognitively grounded approaches to machine intelligence** that improve interpretability, generalization, and alignment with human reasoning — building AI that thinks and collaborates more like humans.
 
-> 🎯 **Actively seeking PhD opportunities (Fall 2026)** in Socially Aware AI · Grounded & Multimodal Reasoning · Human-AI Interaction
+> 🎯 **Actively seeking PhD opportunities (Fall 2026)** in Language Modeling · LLM Evaluation · Human-Centered AI
 
 ---
 
