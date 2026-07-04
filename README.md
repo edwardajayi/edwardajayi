@@ -54,7 +54,7 @@ More broadly, I am interested in developing **cognitively grounded approaches to
 
 ### 2026
 
-- 🏆 **[A Machine Learning Approach for Detection of Mental Health Conditions and Cyberbullying from Social Media](https://proceedings.mlr.press/v317/ajayi26a.html)**  
+- 🏆🎤 **[A Machine Learning Approach for Detection of Mental Health Conditions and Cyberbullying from Social Media](https://proceedings.mlr.press/v317/ajayi26a.html)**  
   **E. Ajayi**, M. Kachweka, M. Deku, E. Aiken  
   *AAAI AI in Medicine and Healthcare Bridge 2026* — **Best Paper Award · Oral Presentation**  
   [![PMLR](https://img.shields.io/badge/PMLR-Proceedings-blue?style=flat-square)](https://proceedings.mlr.press/v317/ajayi26a.html) [![arXiv](https://img.shields.io/badge/arXiv-2511.20001-B31B1B?style=flat-square)](https://arxiv.org/pdf/2511.20001)
@@ -90,12 +90,13 @@ More broadly, I am interested in developing **cognitively grounded approaches to
 
 ## 🚀 Selected Projects
 
-### 🎭 [HumorGen-7B](https://huggingface.co/Jayi2424/HumorGen-7B) — Humor Generation Model
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-Model-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Jayi2424/HumorGen-7B)
-![Qwen2.5](https://img.shields.io/badge/Qwen2.5-LoRA-8B5CF6?style=flat-square)
-![PEFT](https://img.shields.io/badge/PEFT-Fine--tuned-10B981?style=flat-square)
+### 🎭 [HumorGen](https://humorgen.pages.dev/) — Open-Weight Humor Generation Models
+[![Website](https://img.shields.io/badge/Website-humorgen.pages.dev-2563EB?style=flat-square&logo=cloudflare&logoColor=white)](https://humorgen.pages.dev/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Collection-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/collections/Jayi2424/humorgen)
+![Open Weights](https://img.shields.io/badge/Open_Weights-14_Models-8B5CF6?style=flat-square)
+![Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-10B981?style=flat-square)
 
-> A deployed 7B humor-generation model built with persona-based knowledge distillation. Released alongside the HumorGen paper with fully reproducible training code.
+> An open-weight collection of humor generation models — Core 7B suite, multilingual 14B/32B bases, and CLEF 2026 JOKER Task 4 adapters — built with the Cognitive Synergy Framework and persona-based distillation. [14 LoRA adapters on Hugging Face](https://huggingface.co/collections/Jayi2424/humorgen), Apache-2.0.
 
 ---
 
