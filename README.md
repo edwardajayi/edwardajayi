@@ -54,7 +54,7 @@ More broadly, I am interested in developing **cognitively grounded approaches to
 
 ### 2026
 
-- 🏆🎤 **[A Machine Learning Approach for Detection of Mental Health Conditions and Cyberbullying from Social Media](https://proceedings.mlr.press/v317/ajayi26a.html)**  
+- 🏆 **[A Machine Learning Approach for Detection of Mental Health Conditions and Cyberbullying from Social Media](https://proceedings.mlr.press/v317/ajayi26a.html)**  
   **E. Ajayi**, M. Kachweka, M. Deku, E. Aiken  
   *AAAI AI in Medicine and Healthcare Bridge 2026* — **Best Paper Award · Oral Presentation**  
   [![PMLR](https://img.shields.io/badge/PMLR-Proceedings-blue?style=flat-square)](https://proceedings.mlr.press/v317/ajayi26a.html) [![arXiv](https://img.shields.io/badge/arXiv-2511.20001-B31B1B?style=flat-square)](https://arxiv.org/pdf/2511.20001)
@@ -66,7 +66,7 @@ More broadly, I am interested in developing **cognitively grounded approaches to
 
 - 📌 **[HumorRank: A Tournament-Based Leaderboard for Evaluating Humor Generation in Large Language Models](https://arxiv.org/pdf/2604.19786)**  
   **E. Ajayi**, P. Mitra  
-  *Submitted to COLM 2026*  
+  *Submitted to AAAI 2027*  
   [![arXiv](https://img.shields.io/badge/arXiv-2604.19786-B31B1B?style=flat-square)](https://arxiv.org/pdf/2604.19786)
 
 - 📌 **[Language Diversity: Evaluating Language Usage and AI Performance on African Languages in Digital Spaces](https://www.arxiv.org/pdf/2512.01557)**  
@@ -74,29 +74,28 @@ More broadly, I am interested in developing **cognitively grounded approaches to
   *Accepted to Deep Learning Indaba 2026*  
   [![arXiv](https://img.shields.io/badge/arXiv-2512.01557-B31B1B?style=flat-square)](https://www.arxiv.org/pdf/2512.01557)
 
-- 📌 **[Cross-Lingual Cognitive Synergy for Constrained Humor Generation in LLMs](https://edwardajayi.github.io/assets/papers/HumorGen-JOKER.pdf)**  
+- 🏆 **[Cross-Lingual Cognitive Synergy for Constrained Humor Generation in LLMs](https://edwardajayi.github.io/assets/papers/HumorGen-JOKER.pdf)**  
   **E. Ajayi**, P. Mitra  
-  *Submitted to CLEF 2026 JOKER Track*
+  *Accepted to CLEF 2026 JOKER Track (Winner, Task 4)*
 
 - 📌 **[Automatic Humor Detection: A Comprehensive Survey from Theoretical Foundations to Large Language Models](https://edwardajayi.github.io/assets/papers/Automatic%20Humor%20Detection%20Survey.pdf)**  
   **E. Ajayi**, P. Mitra  
   *Submitted to ACM Computing Surveys*
 
-- 📌 **[AfriEconQA: A Benchmark Dataset for African Economic Analysis based on World Bank Reports](https://edwardajayi.github.io/assets/papers/AfriEconQA%20Paper.pdf)**  
-  **E. Ajayi**, P. Bakare  
-  *Submitted to ACM SIGIR 2026*
+- 📌 **[AfriEconQA: A Benchmark Dataset for African Economic Analysis based on World Bank Reports](https://arxiv.org/abs/2601.15297)**  
+  **Edward Ajayi**, Mustapha Alaba & David Stephen  
+  *Submitted to AAAI 2027*
 
 ---
 
 ## 🚀 Selected Projects
 
-### 🎭 [HumorGen](https://humorgen.pages.dev/) — Open-Weight Humor Generation Models
-[![Website](https://img.shields.io/badge/Website-humorgen.pages.dev-2563EB?style=flat-square&logo=cloudflare&logoColor=white)](https://humorgen.pages.dev/)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-Collection-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/collections/Jayi2424/humorgen)
-![Open Weights](https://img.shields.io/badge/Open_Weights-14_Models-8B5CF6?style=flat-square)
-![Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-10B981?style=flat-square)
+### 🎭 [HumorGen](https://humorgen.pages.dev/) — Open-Weight Computational Humor Generation
+[![Live Site](https://img.shields.io/badge/Live_Site-humorgen.pages.dev-2563EB?style=flat-square&logo=cloudflare&logoColor=white)](https://humorgen.pages.dev/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Model_Collection-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/collections/Jayi2424/humorgen)
+![Open Weights](https://img.shields.io/badge/14_models-Apache--2.0-10B981?style=flat-square)
 
-> An open-weight collection of humor generation models — Core 7B suite, multilingual 14B/32B bases, and CLEF 2026 JOKER Task 4 adapters — built with the Cognitive Synergy Framework and persona-based distillation. [14 LoRA adapters on Hugging Face](https://huggingface.co/collections/Jayi2424/humorgen), Apache-2.0.
+> An open-weight ecosystem for computational humor. The Cognitive Synergy Framework runs six comedic personas in parallel and distills the funniest drafts into 14 LoRA adapters across English, French, and Spanish.
 
 ---
 
@@ -113,6 +112,14 @@ More broadly, I am interested in developing **cognitively grounded approaches to
 ![Oral](https://img.shields.io/badge/Oral-Presentation-EF4444?style=flat-square)
 
 > Full ML pipeline for multilabel detection of mental health conditions and cyberbullying using classical models and transformer-based embeddings. Achieved Best Paper Award and Oral acceptance at AAAI-26 AIMedHealth.
+
+---
+
+### 🌐 [CMU-Africa NLP Research Group](https://cmuafrica-nlpgroup.pages.dev/)
+![Web App](https://img.shields.io/badge/Web_App-Cloudflare-F38020?style=flat-square)
+![Community](https://img.shields.io/badge/Research-Community-4285F4?style=flat-square)
+
+> Official portal for the CMU-Africa NLP Research Group — featuring a public research showcase, member dashboard, and collaboration system for researchers working on African language technologies and responsible AI.
 
 ---
 
@@ -137,6 +144,7 @@ More broadly, I am interested in developing **cognitively grounded approaches to
 
 | Date | Achievement |
 |------|-------------|
+| 🏆 Jul 2026 | **Winner** — CLEF 2026 JOKER Task 4: Humor Generation |
 | 🔬 Jun 2026 | **NLP Research Associate** — Spatial & Language Technologies Lab, CMU |
 | 🌍 Jun 2026 | **Paper Accepted** — Deep Learning Indaba 2026 |
 | 🎓 May 2026 | **MSc in Engineering Artificial Intelligence** — Carnegie Mellon University |
